@@ -1,8 +1,11 @@
 # stop Microsoft Office temp files from tracking
 ~*
+*.autosave
 
 # don't track Notepad++ temp files
 *.bak
+.
 
 # whitelist .png files
 *.png
+*.PNG
