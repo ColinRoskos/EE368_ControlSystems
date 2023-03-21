@@ -5,4 +5,4 @@
 *.bak
 
 # whitelist .png files
-!*.png
+*.png
