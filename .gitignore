@@ -1,6 +1,7 @@
 # stop Microsoft Office temp files from tracking
 ~*
 *.autosave
+*.asv
 
 # don't track Notepad++ temp files
 *.bak
